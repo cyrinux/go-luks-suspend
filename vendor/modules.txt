@@ -1,0 +1,9 @@
+# github.com/guns/golibs v0.11.0
+## explicit
+github.com/guns/golibs/editreader
+github.com/guns/golibs/errutil
+github.com/guns/golibs/process
+github.com/guns/golibs/sys
+# golang.org/x/sys v0.10.0
+## explicit; go 1.17
+golang.org/x/sys/unix

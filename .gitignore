@@ -1,5 +1,5 @@
 /bin/
 /pkg/
 /*.pkg.*
-/go-luks-suspend
-/initramfs-suspend
+go-luks-suspend
+initramfs-suspend
